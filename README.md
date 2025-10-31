@@ -1,4 +1,6 @@
-## The primary objective of this task was to develop a method for identifying possible cheater teachers within the dataset. Manually identifying cheaters would be both inaccurate and time-consuming due to the magnitude of the data. Therefore, we employed statistical techniques using R to automate this process.
+## Intro
+
+### The primary objective of this task was to develop a method for identifying possible cheater teachers within the dataset. Manually identifying cheaters would be both inaccurate and time-consuming due to the magnitude of the data. Therefore, we employed statistical techniques using R to automate this process.
 
 ### The code we have used is R-based 
 
